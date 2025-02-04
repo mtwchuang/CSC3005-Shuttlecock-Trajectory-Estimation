@@ -1,1 +1,5 @@
+# Folder to store the dependencies
 /dependencies
+
+# Folder for trained models
+Full Data Approach/trained_models
