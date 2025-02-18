@@ -2,4 +2,10 @@
 /dependencies
 
 # Folder for trained models
-Full Data Approach/trained_models
+models/trained_models/*
+
+# Folder for old stuff
+old_scripts
+old_scripts_roy
+old_interactive_models
+data/old
