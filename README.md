@@ -80,7 +80,7 @@ Was conducted for each model by comparing the predicted and actual trajectory us
 - **LSTM RNN** surprisingly had the worst performance, despite its ability to model sequential dependencies. 
 
 ## Robot Implementation
-
+![Figure 4: Robot Implementation](images/robot_response.png)
 The robot response system was designed to evaluate whether a robot could successfully predict the shuttlecock's trajectory given a single observation, and figure out the necessary steps to return it. This involved:
 
 
