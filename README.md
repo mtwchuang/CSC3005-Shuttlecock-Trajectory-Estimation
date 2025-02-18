@@ -1,4 +1,4 @@
-# Shuttlecock Trajectory Forecasting
+# Shuttlecock Trajectory Estimation
 ![Figure 3: All Shuttlecock Trajectory](images/newplot.png)
 ## Overview
 This project explores the forecasting of trajectories of a shuttlecock in a badminton game using machine learning models. By leveraging motion capture data, the goal is to predict the shuttlecock’s flight path based on initial conditions such as player position, shuttlecock velocity, and firing angles. The project explores different models, including Decision Trees, Random Forest, Extra Trees, and LSTMs, to evaluate their effectiveness in trajectory prediction. Results of this project can be used to enhance automated badminton training systems and robotic by anticipating where the shuttlecock will land.
